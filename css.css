@@ -1,0 +1,10 @@
+input{
+    display: block;
+    margin-bottom: 15px;
+}
+#imagen{
+    height: 250px;
+    width: 220px;
+    background-image: url('./juego.png');
+    font-family: sans-serif;
+}
